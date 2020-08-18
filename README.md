@@ -1,4 +1,4 @@
-# Seasonal-adjustment based feature selection method for predicting epidemic with large-scale search engine logs [KDD2019]
+# [KDD2019] Seasonal-adjustment based feature selection method for predicting epidemic with large-scale search engine logs
 A seasonal adjustment based feature selection and prediction modeling for predicting epidemic with search engine logs. This repository contains the source code and a part of the data to reprocedure the experiment. Since we're not able to public all 2.5 milion search terms, we instead publish the data of the search terms that actually selected when we conducted the experiment with 2.5 milion search terms and a number of search terms with high score. 
 
 More information in our paper.
